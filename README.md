@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emmadisetty Kowshik</h1>
 <h3 align="center">A passionate frontend developer and Cyber-Security enthusiast from India.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kowshike" alt="kowshike" /></a> </p>
+
 
 - 🔭 I’m currently working on **Digital Forensic Image Analysis**
 
