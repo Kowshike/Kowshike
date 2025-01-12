@@ -1,10 +1,6 @@
-<p align="right">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=kowshike.kowshike" alt="Visitor Count Badge"/>
-</p>
+
 <p align="center">
-  <img src="./mainhead.gif" alt="Main Header">
-  <img src="[https://readme-typing-svg.herokuapp.com/?](https://drive.google.com/file/d/1dYzhBIUqCMcTAjtFmn5OW3XtirJ2tVRo/view?usp=sharing)font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KOWSHIK+EMMADISETTY!;" alt="Typing SVG">
-</p>
+
 
 <h3 align="center">A passionate software developer and cybersecurity enthusiast from India</h3>
 
