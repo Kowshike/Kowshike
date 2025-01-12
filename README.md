@@ -1,51 +1,97 @@
-<h1 align="center">Hi 👋, I'm Emmadisetty Kowshik</h1>
-<h3 align="center">A passionate Frontend Developer and Cybersecurity Enthusiast from India 🔒💻</h3>
-
-- 🔭 **I’m currently working on:** **Digital Forensic Image Analysis**  
-
-- 🌱 **I’m currently learning:** **Java Full Stack**  
-
-- 📂 **Portfolio:** [Click here to view my projects](https://portfolio-kowshik.netlify.app/)  
-
-- 📝 **I regularly write articles on:** [LinkedIn](https://www.linkedin.com/in/kowshik-emmadisetty-3a7874248/)  
-
-- 💬 **Ask me about:** **React, HTML, CSS, JavaScript, Python, Java, C**  
-
-- 📫 **How to reach me:** **210003921cseh@gmail.com**  
-
-- 📄 **Resume:** [Access my resume here](https://portfolio-kowshik.netlify.app/assets/2100031921_E.KOWSHIK%20resume.pdf)  
-
-- ⚡ **Fun Fact:** Did you know 90% of the world's data was created in just the last two years? That's what inspires me to dive deeper into technology every day!  
-
----
-
-<h3 align="left">🌐 Connect with Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/kowshik__007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kowshik__007" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/kowshik-emmadisetty-3a7874248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kowshik-emmadisetty-3a7874248" height="30" width="40" /></a>
-  <a href="https://fb.com/kowshik.emmadisetty.31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kowshik.emmadisetty.31" height="30" width="40" /></a>
-  <a href="https://instagram.com/kowshikemmadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kowshikemmadisetty" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/klu_2100031921" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="klu_2100031921" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/h2100031921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="h2100031921" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/kowshik.emmadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kowshik.emmadisetty" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/kowshikemmadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kowshikemmadisetty" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/@e.8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@e.8" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/kowshik_31921" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kowshik_31921" height="30" width="40" /></a>
+<p align="right">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=kowshike.kowshike" alt="Visitor Count Badge"/>
+</p>
+<p align="center">
+  <img src="./mainhead.gif" alt="Main Header">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+KOWSHIK+EMMADISETTY!;" alt="Typing SVG">
 </p>
 
----
+<h3 align="center">A passionate software developer and cybersecurity enthusiast from India</h3>
 
-<h3 align="left">💻 Languages and Tools:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<div>
+  <img align="right" alt="Coding" width="150" height="150" style="border: 4px solid aliceblue; padding: 2px; border-radius:50%;" src="./kowshik.png">
+  <div>
+  
+🔭 I’m currently working on **Web Development and Cybersecurity Projects**
+
+🌱 I’m currently learning **Next.js, Kubernetes**
+
+💬 Ask me about **MERN Stack, Networking, Cybersecurity... or anything [here](https://github.com/kowshike/kowshike/issues)**
+
+⚡ Moto: **Code to create, secure to sustain!**
+
+  </div>
+</div>
+
+<div align="center"> 
+  <a href="mailto:kowshikemmadisetty@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/kowshik-emmadisetty" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-kowshik.netlify.app" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="/resume.pdf">
+     <img src="https://img.shields.io/badge/View%20Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</div>
+
+## 📝 Profile Summary
+
+Software engineer and cybersecurity enthusiast specializing in networking and MERN stack development. Experienced in building scalable web applications and securing systems with advanced technical solutions.
+
+## 💼 Experience & Achievements
+
+**KL University, Student Project Lead | 2023 - Present**
+
+- Built **Graphical Authentication System** for secure user authentication using **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**.
+- Published and presented technical papers in cybersecurity forums.
+
+**CodeKaze 2023 | Participant**
+
+- Ranked in the **top 2%** among 100,000+ participants in a prestigious coding competition.
+
+## 🛠️ Technical Skills
+
+- **Programming Languages:** JavaScript, Python, C, Java
+- **Frameworks:** MERN Stack, React, Node.js, Express
+- **Databases:** MySQL, MongoDB, Firebase
+- **Cybersecurity Knowledge:** Networking Protocols (DHCP, ARP, ICMP), Network Traffic Analysis
+
+## 🏆 Certifications
+
+- **AWS Certified Cloud Practitioner** (2x Certified)
+- **Google Cloud Certified** (GCP)
+- **Red Hat Certified (EX183)**
+
+## 🔍 Star Projects
+
+**Graphical Authentication | August 2023**
+
+- Developed a secure, user-friendly authentication system using **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**.
+
+**Resume Generator Web App | July 2024**
+
+- Created a dynamic resume builder using **React** and **Node.js**, enabling users to generate resumes with customizable templates.
+
+**Network Traffic Analyzer | September 2023**
+
+- Built a tool to analyze and visualize network traffic using **Python** and **Wireshark APIs**, focusing on security insights.
+
+<h2>🧑‍💻 Languages-Frameworks-Tools</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,nodejs,python,mongodb,mysql,java,tailwind,firebase" />
+</div>
+
+## 💻 Coding Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/kowshikemmadisetty/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://github.com/kowshike">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
