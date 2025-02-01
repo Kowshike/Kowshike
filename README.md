@@ -63,20 +63,31 @@ Software engineer and cybersecurity enthusiast specializing in networking and ME
 ## 🏆 Certifications
 
 - **AWS Certified Cloud Practitioner** (2x Certified)
+- **AWS Certified Solution Architect**
 - **Google Cloud Certified** (GCP)
-- **Red Hat Certified (EX183)**
+- **Red Hat Certified **(EX183)
+- **Demystifying Networks **(NPTEL)
+- **Ethical Hacking **(NPTEL)
 
 ## 🔍 Star Projects
 
-**Graphical Authentication | August 2023**
+**Graphical Authentication**
 
 - Developed a secure, user-friendly authentication system using **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**.
 
-**Resume Generator Web App | July 2024**
+**Image Forensics (Flask-Based Development)**
+
+- Built a Flask web app for analyzing image metadata (e.g., GPS, timestamps) to support image verification and privacy compliance using **Flask**, **HTML5**, **CSS3**, **JavaScript**, and **Bootstrap**.
+
+**Chatter Application  (Mern-Stack Based Development)**
+
+- Developed a Firebase-powered Chatter Application with Google Authentication, Firestore integration, and dynamic UI using React and CSS.  **React.js**, **Tailwind CSS**, **Firebase Authentication**, **Firebase Database**, **ZegoCloud SDK**, **JavaScript**.
+  
+**Resume Generator Web App **
 
 - Created a dynamic resume builder using **React** and **Node.js**, enabling users to generate resumes with customizable templates.
 
-**Network Traffic Analyzer | September 2023**
+**Network Traffic Analyzer **
 
 - Built a tool to analyze and visualize network traffic using **Python** and **Wireshark APIs**, focusing on security insights.
 
@@ -88,10 +99,22 @@ Software engineer and cybersecurity enthusiast specializing in networking and ME
 ## 💻 Coding Profiles
 
 <p align="center">
+  <p align="center">
   <a href="https://leetcode.com/kowshikemmadisetty/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://github.com/kowshike">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="[https://www.codechef.com/users/kowshikemmadisetty](https://www.codechef.com/users/klu_2100031921)">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="[https://codeforces.com/profile/kowshikemmadisett](https://codeforces.com/profile/Kowshik.Emmadisetty)y">
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://atcoder.jp/users/klu2100031921">
+    <img src="https://img.shields.io/badge/AtCoder-00A9E0?style=for-the-badge&logo=atcoder&logoColor=white" />
+  </a>
+</p>
+
 </p>
