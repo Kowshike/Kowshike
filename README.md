@@ -66,7 +66,7 @@ Software engineer and cybersecurity enthusiast specializing in networking and ME
 - **Red Hat Certified**(EX183)
 - **Demystifying Networks**(NPTEL)
 - **Ethical Hacking**(NPTEL)
-- 
+
 ## 🔍 Star Projects
 
 **Graphical Authentication**
