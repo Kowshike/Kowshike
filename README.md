@@ -62,13 +62,13 @@ Software engineer and cybersecurity enthusiast specializing in networking and ME
 
 ## 🏆 Certifications
 
-- **AWS Certified Cloud Practitioner** (2x Certified)
+- **AWS Certified Cloud Practitioner** 
 - **AWS Certified Solution Architect**
 - **Google Cloud Certified** (GCP)
-- **Red Hat Certified **(EX183)
-- **Demystifying Networks **(NPTEL)
-- **Ethical Hacking **(NPTEL)
-
+- **Red Hat Certified**(EX183)
+- **Demystifying Networks**(NPTEL)
+- **Ethical Hacking**(NPTEL)
+- 
 ## 🔍 Star Projects
 
 **Graphical Authentication**
