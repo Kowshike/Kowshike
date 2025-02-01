@@ -82,12 +82,15 @@ Software engineer and cybersecurity enthusiast specializing in networking and ME
 **Chatter Application  (Mern-Stack Based Development)**
 
 - Developed a Firebase-powered Chatter Application with Google Authentication, Firestore integration, and dynamic UI using React and CSS.  **React.js**, **Tailwind CSS**, **Firebase Authentication**, **Firebase Database**, **ZegoCloud SDK**, **JavaScript**.
+
+**Academic Project Management System**
+-A Java full-stack Role-Based Project Management System using Spring Boot and MySQL, enabling seamless mentor-student allocation, project tracking, and collaborative team management with real-time feedback integration.
   
-**Resume Generator Web App **
+**Resume Generator Web App**
 
 - Created a dynamic resume builder using **React** and **Node.js**, enabling users to generate resumes with customizable templates.
 
-**Network Traffic Analyzer **
+**Network Traffic Analyzer**
 
 - Built a tool to analyze and visualize network traffic using **Python** and **Wireshark APIs**, focusing on security insights.
 
