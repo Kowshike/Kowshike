@@ -8,9 +8,7 @@
 
 <h3 align="center">A passionate software developer and cybersecurity enthusiast from India</h3>
 
-<div>
-  <img align="right" alt="." width="150" height="150" style="border: 4px solid aliceblue; padding: 2px; border-radius:50%;" src="./kowshik.png">
-  <div>
+
   
 🔭 I’m currently working on **Web Development and Cybersecurity Projects**
 
