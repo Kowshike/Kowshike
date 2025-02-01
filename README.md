@@ -82,7 +82,7 @@ Software engineer and cybersecurity enthusiast specializing in networking and ME
 - Developed a Firebase-powered Chatter Application with Google Authentication, Firestore integration, and dynamic UI using React and CSS.  **React.js**, **Tailwind CSS**, **Firebase Authentication**, **Firebase Database**, **ZegoCloud SDK**, **JavaScript**.
 
 **Academic Project Management System**
--A Java full-stack Role-Based Project Management System using Spring Boot and MySQL, enabling seamless mentor-student allocation, project tracking, and collaborative team management with real-time feedback integration.
+- A Java full-stack Role-Based Project Management System using Spring Boot and MySQL, enabling seamless mentor-student allocation, project tracking, and collaborative team management with real-time feedback integration.
   
 **Resume Generator Web App**
 
